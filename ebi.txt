@@ -2,3 +2,10 @@ first git project
 ee
 edit this line in local.
 edit in github and commit.
+
+
+
+
+
+
+edit in remote for conflict
